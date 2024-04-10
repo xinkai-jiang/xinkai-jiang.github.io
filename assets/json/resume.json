@@ -1,0 +1,49 @@
+{
+  "basics": {
+    "name": "Xinkai Jiang",
+    "label": "PhD Student in Computer Science",
+    "image": "",
+    "email": "xinkai.jiang@kit.edu",
+    "phone": "(912) 123-4567",
+    "url": "https://xinkai-jiang.github.io/",
+    "summary": "A German-born theoretical physicist, widely ranked among the greatest and most influential scientists of all time",
+    "location": {
+      "address": "2712 Broadway St",
+      "postalCode": "CA 94115",
+      "city": "San Francisco",
+      "countryCode": "US",
+      "region": "California"
+    },
+    "profiles": [
+      {
+        "network": "Twitter",
+        "username": "AlbertEinstein",
+        "url": "https://twitter.com/AlbertEinstein"
+      }
+    ]
+  },
+
+  "education": [
+    {
+      "institution": "Karlsruhe Institute of Technology",
+      "location": "Karlsruhe, Germany",
+      "studyType": "PhD in Computer Science",
+      "startDate": "2022-12",
+      "endDate": "Present"
+    },
+    {
+      "institution": "Harbin Institute of Technology",
+      "location": "Harbin, China",
+      "studyType": "M.Eng. in Mechanical Engineering",
+      "startDate": "2019-09",
+      "endDate": "2021-07"
+    },
+    {
+      "institution": "Harbin Institute of Technology",
+      "location": "Harbin, China",
+      "studyType": "B.Eng. in Mechanical Engineering",
+      "startDate": "2015-09",
+      "endDate": "2019-06"
+    }
+  ]
+}
