@@ -1,7 +1,7 @@
 ---
-layout: cv
-permalink: https://xinkai-jiang.github.io/assets/pdf/Xinkai_Jiang_CV.pdf
-redirect: https://xinkai-jiang.github.io/assets/pdf/Xinkai_Jiang_CV.pdf
+layout: page
+permalink: assets/pdf/Xinkai_Jiang_CV.pdf
+# redirect: https://xinkai-jiang.github.io/assets/pdf/Xinkai_Jiang_CV.pdf
 title: Curriculum Vitae
 nav: true
 nav_order: 2
