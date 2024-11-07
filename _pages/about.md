@@ -6,7 +6,7 @@ subtitle: PhD student at Karlsruhe Institute of Technology
 
 profile:
   align: right
-  image: logo2.jpg
+  image: logo.jpg
   image_circular: false # crops the image to make it circular
   # more_info: >
   #   <p>555 your office number</p>
@@ -20,10 +20,10 @@ social: true # includes social icons at the bottom of the page
 
 My name is Xinkai Jiang, 
 a PhD student in [Intuitive Robot Lab (IRL)](https://www.irl.iar.kit.edu/) and [Autonomous Learning Robots (ALR) Lab](https://alr.iar.kit.edu/index.php) at Karlsruhe Institute of Technology.
-My PhD advisor is [Prof. Dr. Rudolf Lioutikov](https://rudolf.intuitive-robots.net/) and [Prof. Dr. Gerhard Neumann](https://alr.iar.kit.edu/21_65.php).
+I am supervised by [Prof. Dr. Rudolf Lioutikov](https://rudolf.intuitive-robots.net/) and [Prof. Dr. Gerhard Neumann](https://alr.iar.kit.edu/21_65.php).
 Before that, I obtained both my Bachelor's and Master's degrees in Mechanical Engineering from Harbin Institute of Technology.
 
-My research interests focus on **Imitation Learning**, **Human-Robot Interaction (HRI)**, and **Robotics**,
+My research interests focus on **Interactive Imitation Learning**, **Human-Robot Interaction (HRI)**, and **Robotics**,
 especially how to use **Mixed Reality (MR)** Technology to enhance the Human-Robot Interaction for Robot Learning.
 
 <!-- Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
